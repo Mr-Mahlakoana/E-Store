@@ -4,9 +4,9 @@ This is a Mern (Mongodb, Express, React, Nodejs) stack e-commerce web app
 
 ## Demo Website
 
-👉 Demo : 
+👉 Demo : https://mern-e-store.herokuapp.com/
 
-[![IMAGE ALT TEXT HERE]()
+![IMAGE ALT TEXT HERE](mobile.png)
 
 ## Tech stack
 
